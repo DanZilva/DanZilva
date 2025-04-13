@@ -39,13 +39,12 @@ Acompanhe minhas jornadas, projetos e devaneios tecnológicos:
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SYo3ttoY7lW2o/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/pnUYuRMn88FGo/giphy.gif" width="200" />
-</p>
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p align="center"><i>"O mundo é cruel... mas a gente é teimoso demais pra parar."</i></p>
+<!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="200" height="200">
 
 ---
 
