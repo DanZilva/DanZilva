@@ -8,7 +8,7 @@
 ---
 
 ###  **Sobre mim**  
-Opa! Sou **Daniel**, desenvolvedor em formação, estudante de Análise e Desenvolvimento de Sistemas.  
+Opa! Meu nome é **Daniel**, desenvolvedor em formação, estudante de Análise e Desenvolvimento de Sistemas.  
 Atualmente focado em back-end, faço game dev como hobby e gosto de um bom café amargo. Sempre aprendendo e tentando fazer do caos algo útil.  
 
 ---
