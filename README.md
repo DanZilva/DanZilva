@@ -58,8 +58,6 @@ Acompanhe minhas jornadas, projetos e devaneios tecnológicos:
 
 ---
 
-### 🌱 **O que pode dar errado?**  
-Me chama pra trocar ideia sobre código, games, filosofia e outras nerdices!
 
 > *"A única maneira de fazer um bom trabalho é amando o que você faz. Se você ainda não encontrou, continue procurando. Não se desespere. Assim como no amor, você saberá quando tiver encontrado."*  
 > — *Steve Jobs*
